@@ -9,7 +9,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## changed title
+## changed
 
 * Objective 1
 * Objective 2
